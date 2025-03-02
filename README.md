@@ -79,7 +79,7 @@ python reinforcement_learning.py
 
 📚 Learning Resources
 For a step-by-step explanation of each algorithm, check out my blog posts:
-📖 LinkedIn
+📖 [LinkedIn](https://www.linkedin.com/in/balajee-asish/)
 📖 Medium
 
 🤝 Contributing
